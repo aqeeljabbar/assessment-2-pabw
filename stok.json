@@ -1,0 +1,32 @@
+{
+    "stok" : [
+        {
+            "id" : 1,
+            "nama_barang": "Bubuk red valvet",
+            "harga" : 100000,
+            "kategori" : "Bahan Kering",
+            "satuan" : "2 Kg"
+        }, {
+            "id" : 2,
+            "nama_barang": "Bubuk Matcha ",
+            "harga" : 150000,
+            "kategori" : "Bahan Kering",
+            "satuan" : "3 Kg"
+        }, {
+
+            "id" : 3,
+            "nama_barang": "Kentang Shoe String",
+            "harga" : 400000,
+            "kategori" : "Bahan Beku",
+            "satuan" : "5 Kg"
+        }, {
+            "id" : 4,
+            "nama_barang": "Creamer",
+            "harga" : 100000,
+            "kategori" : "Bahan Kering",
+            "satuan" : "8 Kg"
+        }
+
+
+    ]
+}
