@@ -1,9 +1,9 @@
 <?php
 
-// encode
+// Menghubungkan db
 $dbh = new PDO('mysql:host=localhost;dbname=proyek2', 'root', '');
 $db = $dbh->prepare('SELECT * FROM stok');
-db->execute();
+$db->execute();
 $stok = $db->fectchAll(PDO::FETCH_ASSOC);
 
 // Mengubah data pada db menjadi json
