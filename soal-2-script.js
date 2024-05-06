@@ -20,7 +20,7 @@ $(document).ready(function(){
                 newRow.append('<td>' + kategori + '</td>');
                 newRow.append('<td>' + satuan + '</td>');
                 newRow.append('<button> Hapus </button>');
-                $('#daftar-buku').append(newRow);
+                $('#daftar-stok').append(newRow);
             }
         },
         error: function(jqXHR, textStatus, errorThrown){
